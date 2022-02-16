@@ -1,0 +1,1363 @@
+Script started on 2022-01-01 14:43:33+02:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="78" LINES="23"]
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ '/home/danibuntu/CLionProjects/EX5_mivne/script.sh' 
+bash: /home/danibuntu/CLionProjects/EX5_mivne/script.sh: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ sudo ./sceip[K[K[Ke[Kript.h
+[sudo] password for danibuntu: 
+sudo: ./script.h: command not found
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+script.sh: line 3: /showBMP: No such file or directory
+script.sh: line 3: /showBMP: No such file or directory
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ chmod scri[K[K[K[K+wx[K scru[Kipt.sh 
+chmod: changing permissions of 'script.sh': Operation not permitted
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ chmod +w script.sh [4Pbash[C[C[C[C[C[C[C[C[C[C[C[4@chmod +w[C[C[C[C[C[C[C[C[C[C[Cschmod +w script.sh  [A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [Cuchmod +w script.sh [A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [C[Cdchmod +w script.sh [A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [C[C[Cochmod +w script.sh [A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [C[C[C[C chmod +w script.[1@s[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [C[C[C[C[C
+
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ sudo chmod +w script.sh [A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [1Pchmod +w script.sh 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Pbash[C[C[C[C[C[C[C[C[C[C[Csudo ./script.hbash script.sh [4@chmod +w[C[C[C[C[C[C[C[C[C[C[Csudo chmod +w script.sh [A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cchmod[K[K[K[K[Ksudo chmod a+wr script.sh 
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+398.506000
+_mcleanup: gmon.out: Permission denied
+79.907000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+script.sh: line 4: syntax error near unexpected token `0.5'
+script.sh: line 4: `  sleep(0.5)'
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+script.sh: line 4: syntax error near unexpected token `1'
+script.sh: line 4: `  sleep(1)'
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+466.588000
+_mcleanup: gmon.out: Permission denied
+438.736000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ps
+    PID TTY          TIME CMD
+   2834 pts/2    00:00:00 bash
+   3009 pts/2    00:00:00 ps
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ps
+    PID TTY          TIME CMD
+   2834 pts/2    00:00:00 bash
+   3012 pts/2    00:00:00 ps
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ psbash script.sh 
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+439.161000
+477.066000
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+445.149000
+475.955000
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+452.262000
+411.468000
+391.506000
+413.516000
+369.540000
+374.896000
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ^C
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+565.230000
+514.014000
+506.510000
+623.118000
+630.684000
+584.223000
+579.991000
+541.478000
+563.293000
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ 530.392000
+_mcleanup: gmon.out: Permission denied
+doe[Kne
+bash: syntax error near unexpected token `done'
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ donebash script.sh 
+301.275000
+264.182000
+_mcleanup: gmon.out: Permission denied
+642.345000
+604.311000
+_mcleanup: gmon.out: Permission denied
+658.117000
+678.192000
+_mcleanup: gmon.out: Permission denied
+693.026000
+564.037000
+_mcleanup: gmon.out: Permission denied
+671.467000
+576.057000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+script.sh: line 2: syntax error near unexpected token `do{'
+script.sh: line 2: `do{'
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+264.569000
+553.040000
+_mcleanup: gmon.out: Permission denied
+740.400000
+582.190000
+_mcleanup: gmon.out: Permission denied
+685.858000
+389.471000
+_mcleanup: gmon.out: Permission denied
+615.874000
+305.338000
+_mcleanup: gmon.out: Permission denied
+659.930000
+258.113000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+533.741000
+655.212000
+602.386000
+553.694000
+567.890000
+569.341000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ^C
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ^C
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+564.680000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+283.293000
+262.316000
+553.126000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 
+534.785000
+562.508000
+575.587000
+534.273000
+577.483000
+150.548000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1
+414.530000
+426.444000
+320.043000
+412.727000
+439.098000
+416.866000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1
+431.196000
+163.999000
+376.420000
+419.645000
+413.347000
+384.234000
+gibson_500.bmp Filtered_Blur_correct.bmp differ: byte 255251, line 1
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1[K2
+532.392000
+593.173000
+209.759000
+558.132000
+193.934000
+570.336000
+gibson_500.bmp Filtered_Blur_correct.bmp differ: byte 255251, line 1
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 21[Kdone[Kbash script.sh ps[Kbash script.sh sudo chmod a+wr script.sh [A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [C[C[C[C[C[C[C[C[C[C[C+w script.[2P[C[C[C[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [1Pchmod +w script.sh 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Pbash[C[C[C[C[C[C[C[C[C[C[Csudo ./script.h'/home/danibuntu/CLionProjects/EX5_mivne/script.sh' [A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ./showBMP gibson_500.bmp 1[K[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ pwd[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ makebash script.sh 2
+353.353000
+574.357000
+222.481000
+567.723000
+596.255000
+552.292000
+gibson_500.bmp Filtered_Blur_correct.bmp differ: byte 255251, line 1
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 2[K1
+429.062000
+391.749000
+416.018000
+186.789000
+409.782000
+262.833000
+gibson_500.bmp Filtered_Blur_correct.bmp differ: byte 255251, line 1
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1
+428.793000
+263.614000
+435.662000
+433.856000
+368.221000
+428.200000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ^C
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1[K2
+568.066000
+621.644000
+581.038000
+589.247000
+522.051000
+535.431000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 2[K1
+222.305000
+421.169000
+431.905000
+423.093000
+411.050000
+444.224000
+414.156000
+425.865000
+447.190000
+417.919000
+127.231000
+436.221000
+430.754000
+421.144000
+408.358000
+451.903000
+467.677000
+412.679000
+416.093000
+383.410000
+385.821000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1
+472.239000
+404.518000
+222.997000
+465.924000
+377.354000
+420.485000
+431.255000
+224.782000
+437.333000
+177.388000
+75.495000
+434.483000
+376.484000
+149.441000
+433.020000
+383.536000
+357.625000
+416.016000
+458.363000
+395.802000
+228.702000
+479.511000
+259.518000
+198.716000
+124.643000
+461.665000
+475.864000
+423.379000
+78.231000
+439.899000
+393.570000
+433.107000
+416.839000
+224.780000
+374.355000
+419.210000
+397.498000
+355.627000
+449.164000
+389.420000
+484.302000
+232.940000
+410.835000
+436.457000
+372.196000
+432.298000
+483.808000
+397.104000
+402.987000
+456.064000
+402.918000
+448.637000
+418.492000
+389.875000
+433.883000
+103.697000
+447.707000
+442.048000
+374.466000
+201.424000
+136.519000
+433.505000
+87.230000
+216.086000
+468.881000
+432.167000
+398.486000
+461.547000
+385.226000
+408.652000
+421.702000
+407.713000
+409.435000
+332.494000
+400.778000
+429.634000
+426.382000
+422.616000
+436.403000
+436.640000
+436.782000
+413.193000
+392.908000
+38.401000
+386.563000
+386.712000
+405.976000
+443.395000
+360.763000
+222.282000
+407.838000
+175.010000
+166.766000
+236.063000
+166.476000
+424.305000
+417.276000
+426.731000
+414.182000
+383.933000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1[K2
+587.038000
+561.170000
+587.434000
+555.851000
+291.936000
+544.274000
+573.106000
+569.655000
+584.856000
+574.835000
+567.038000
+567.458000
+561.338000
+172.538000
+592.121000
+563.175000
+527.447000
+572.344000
+568.334000
+615.707000
+536.242000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 2[K1 >>  out.txt
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1 >> out.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C ou[1Pt.txt[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1 > out.txt[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C> out.txt[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1212make[Kbash script.sh 2make[K
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ makebash script.sh 1 > out.txt[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C> out.txt[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C ou[1Pt.txt[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K
+389.876000
+415.665000
+404.655000
+389.738000
+545.541000
+439.445000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ^C
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1make[K
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ makebash script.sh 1
+double free or corruption (!prev)
+script.sh: line 1:  4658 Aborted                 (core dumped) ./showBMP gibson_500.bmp $1
+double free or corruption (!prev)
+double free or corruption (!prev)
+script.sh: line 1:  4662 Aborted                 (core dumped) ./showBMP gibson_500.bmp $1
+script.sh: line 1:  4666 Aborted                 (core dumped) ./showBMP gibson_500.bmp $1
+double free or corruption (!prev)
+script.sh: line 1:  4670 Aborted                 (core dumped) ./showBMP gibson_500.bmp $1
+double free or corruption (!prev)
+script.sh: line 1:  4675 Aborted                 (core dumped) ./showBMP gibson_500.bmp $1
+double free or corruption (!prev)
+script.sh: line 7:  4679 Aborted                 (core dumped) ./showBMP gibson_500.bmp $1
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ./s[K[K[K./showBMP gibson_500.bmp 1
+double free or corruption (!prev)
+Aborted (core dumped)
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [4Pbash script.sh 1
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmake[K
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make./showBMP gibson_500.bmp 1
+389.953000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make./showBMP gibson_500.bmp 1
+double free or corruption (!prev)
+Aborted (core dumped)
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [4Pbash script.sh 1
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+370.797000
+386.815000
+377.220000
+335.396000
+406.326000
+367.191000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ^C
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1[K2
+534.481000
+568.610000
+524.221000
+202.264000
+599.276000
+571.936000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ^C
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 21make[K
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ makebash script.sh 2[K1
+409.418000
+227.459000
+109.412000
+402.162000
+417.147000
+434.122000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1make[K
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ makebash script.sh 1
+392.590000
+373.790000
+387.572000
+411.902000
+399.596000
+409.897000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ^C
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1
+424.024000
+427.525000
+191.101000
+455.796000
+260.762000
+167.114000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1
+244.442000
+282.418000
+400.399000
+425.918000
+397.266000
+430.660000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1make[K
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ makebash script.sh 1
+401.179000
+464.147000
+419.769000
+411.048000
+427.067000
+412.868000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1
+184.954000
+460.383000
+393.058000
+394.450000
+409.498000
+382.362000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1make[K
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ makebash script.sh 1
+376.273000
+96.922000
+421.688000
+425.349000
+429.733000
+390.042000
+203.555000
+119.905000
+407.680000
+418.351000
+414.125000
+465.788000
+225.615000
+472.222000
+418.324000
+299.094000
+450.197000
+169.842000
+424.080000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1make[Kbash script.sh 1make[Kbash script.sh 1make[Kbash script.sh 1make[Kbash script.sh 21make[K./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [4Pbash script.sh 1
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmake[Kbash script.sh 1make[Kbash script.sh 1 > out.txt[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C> out.txt[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1212make[Kbash script.sh 21[Kdone[Kbash script.sh ps[Kbash script.sh sudo chmod a+wr script.sh [A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [C[C[C[C[C[C[C[C[C[C[C+w script.[2P[C[C[C[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [1Pchmod +w script.sh 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Pbash[C[C[C[C[C[C[C[C[C[C[Csudo ./script.h'/home/danibuntu/CLionProjects/EX5_mivne/script.sh' [A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ./showBMP gibson_500.bmp 1[K[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ pwd[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 12[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 21[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ gprof showBMP > rep.t[3Pxt[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ sudo ./showBMP gibson_500.bmp 2[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclean[1Pmakesudo ./showBMP gibson_500.bmp 2[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ gprof showBMP > rep.txt[K
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ps
+    PID TTY          TIME CMD
+   2834 pts/2    00:00:00 bash
+   5302 pts/2    00:00:00 ps
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ psgprof showBMP > rep.txt[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [4Pbash script.sh 1
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K2
+531.645000
+501.978000
+590.009000
+188.511000
+594.460000
+514.808000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 2ps[Kbash script.sh 2[Kmk[Kake
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ makebash script.sh 2ps[Kgprof showBMP > rep.txt[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [4Pbash script.sh 1
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmake[Kbash script.sh 1make[Kbash script.sh 1make[Kbash script.sh 1make[Kbash script.sh 21make[K./showBMP gibson_500.bmp 1
+412.423000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+gcc -pg -o showBMP.o -c showBMP.c
+In file included from [01m[KshowBMP.c:68[m[K:
+[01m[Kmyfunction.c:[m[K In function ‘[01m[KapplyKernel[m[K’:
+[01m[Kmyfunction.c:108:16:[m[K [01;31m[Kerror: [m[Kinvalid type argument of ‘[01m[K->[m[K’ (have ‘[01m[Kpixel_sum[m[K’ {aka ‘[01m[Kstruct <anonymous>[m[K’})
+  108 |             sum[01;31m[K->[m[Kred += ((int) p.red) * weight;
+      |                [01;31m[K^~[m[K
+[01m[Kmyfunction.c:109:16:[m[K [01;31m[Kerror: [m[Kinvalid type argument of ‘[01m[K->[m[K’ (have ‘[01m[Kpixel_sum[m[K’ {aka ‘[01m[Kstruct <anonymous>[m[K’})
+  109 |             sum[01;31m[K->[m[Kgreen += ((int) p.green) * weight;
+      |                [01;31m[K^~[m[K
+[01m[Kmyfunction.c:110:16:[m[K [01;31m[Kerror: [m[Kinvalid type argument of ‘[01m[K->[m[K’ (have ‘[01m[Kpixel_sum[m[K’ {aka ‘[01m[Kstruct <anonymous>[m[K’})
+  110 |             sum[01;31m[K->[m[Kblue += ((int) p.blue) * weight;
+      |                [01;31m[K^~[m[K
+make: *** [Makefile:13: showBMP.o] Error 1
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make./showBMP gibson_500.bmp 1
+469.653000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make./showBMP gibson_500.bmp 1
+324.427000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make./showBMP gibson_500.bmp 1
+331.436000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make./showBMP gibson_500.bmp 1
+310.974000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make./showBMP gibson_500.bmp 1
+284.503000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbash script.sh 2[K1
+268.044000
+259.759000
+275.344000
+27.807000
+265.495000
+281.288000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1[K2
+180.383000
+202.645000
+385.087000
+381.110000
+194.237000
+392.620000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 21./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ makebash script.sh 21./showBMP gibson_500.bmp 1
+92.257000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbash script.sh 21
+32.109000
+81.613000
+153.246000
+254.492000
+290.385000
+268.725000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ bash script.sh 1./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [4Pbash script.sh 1
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K2
+424.570000
+383.339000
+226.593000
+364.640000
+123.461000
+197.108000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ gprof shp[Kop[KwBMP.[K
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  ms/call  ms/call  name    
+ 44.51      0.04     0.04   496008     0.00     0.00  applyKernel
+ 11.13      0.05     0.01 13392216     0.00     0.00  calcIndex
+ 11.13      0.06     0.01  4960080     0.00     0.00  sum_pixels_by_weight
+ 11.13      0.07     0.01   992016     0.00     0.00  assign_sum_to_pixel
+ 11.13      0.08     0.01        4     2.50     2.50  myfunction
+ 11.13      0.09     0.01                             max
+  0.00      0.09     0.00 12152196     0.00     0.00  initialize_pixel_sum
+  0.00      0.09     0.00        2     0.00     0.00  charsToPixels
+  0.00      0.09     0.00        2     0.00     0.00  copyPixels
+  0.00      0.09     0.00        2     0.00     0.00  endianReadInt
+  0.00      0.09     0.00        2     0.00     0.00  endianReadShort
+  0.00      0.09     0.00        2     0.00    35.05  smooth
+  0.00      0.09     0.00        2     0.00     0.00  writeBMP
+  0.00      0.09     0.00        1     0.00     0.00  ImageLoad
+  0.00      0.09     0.00        1     0.00     0.00  getImage
+  0.00      0.09     0.00        1     0.00    80.11  main
+  0.00      0.09     0.00        1     0.00    75.11  optimize
+
+ %         the percentage of the total running time of the
+time       program used by this function.
+
+cumulative a running sum of the number of seconds accounted
+ seconds   for by this function and those listed above it.
+
+ self      the number of seconds accounted for by this
+seconds    function alone.  This is the major sort for this
+           listing.
+
+calls      the number of times this function was invoked, if
+           this function is profiled, else blank.
+
+ self      the average number of milliseconds spent in this
+ms/call    function per call, if this function is profiled,
+	   else blank.
+
+ total     the average number of milliseconds spent in this
+ms/call    function and its descendents per call, if this
+	   function is profiled, else blank.
+
+name       the name of the function.  This is the minor sort
+           for this listing. The index shows the location of
+	   the function in the gprof listing. If the index is
+	   in parenthesis it shows where it would appear in
+	   the gprof listing if it were to be printed.
+
+Copyright (C) 2012-2020 Free Software Foundation, Inc.
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.
+
+		     Call graph (explanation follows)
+
+
+granularity: each sample hit covers 2 byte(s) for 11.10% of 0.09 seconds
+
+index % time    self  children    called     name
+                0.00    0.08       1/1           etext [2]
+[1]     88.9    0.00    0.08       1         main [1]
+                0.00    0.08       1/1           optimize [3]
+                0.01    0.00       2/4           myfunction [9]
+                0.00    0.00       2/2           writeBMP [16]
+-----------------------------------------------
+                                                 <spontaneous>
+[2]     88.9    0.00    0.08                 etext [2]
+                0.00    0.08       1/1           main [1]
+                0.00    0.00       1/1           getImage [18]
+-----------------------------------------------
+                0.00    0.08       1/1           main [1]
+[3]     83.3    0.00    0.08       1         optimize [3]
+                0.00    0.07       2/2           smooth [5]
+                0.01    0.00       2/4           myfunction [9]
+                0.00    0.00       2/2           charsToPixels [12]
+                0.00    0.00       2/2           copyPixels [13]
+-----------------------------------------------
+                0.04    0.03  496008/496008      smooth [5]
+[4]     77.8    0.04    0.03  496008         applyKernel [4]
+                0.01    0.00 4960080/4960080     sum_pixels_by_weight [6]
+                0.01    0.00  992016/992016      assign_sum_to_pixel [7]
+                0.01    0.00 11904192/13392216     calcIndex [8]
+                0.00    0.00 10168164/12152196     initialize_pixel_sum [11]
+-----------------------------------------------
+                0.00    0.07       2/2           optimize [3]
+[5]     77.8    0.00    0.07       2         smooth [5]
+                0.04    0.03  496008/496008      applyKernel [4]
+                0.00    0.00  496008/12152196     initialize_pixel_sum [11]
+-----------------------------------------------
+                0.01    0.00 4960080/4960080     applyKernel [4]
+[6]     11.9    0.01    0.00 4960080         sum_pixels_by_weight [6]
+                0.00    0.00  992016/13392216     calcIndex [8]
+                0.00    0.00  992016/12152196     initialize_pixel_sum [11]
+-----------------------------------------------
+                0.01    0.00  992016/992016      applyKernel [4]
+[7]     11.5    0.01    0.00  992016         assign_sum_to_pixel [7]
+                0.00    0.00  496008/13392216     calcIndex [8]
+                0.00    0.00  496008/12152196     initialize_pixel_sum [11]
+-----------------------------------------------
+                0.00    0.00  496008/13392216     assign_sum_to_pixel [7]
+                0.00    0.00  992016/13392216     sum_pixels_by_weight [6]
+                0.01    0.00 11904192/13392216     applyKernel [4]
+[8]     11.1    0.01    0.00 13392216         calcIndex [8]
+-----------------------------------------------
+                0.01    0.00       2/4           optimize [3]
+                0.01    0.00       2/4           main [1]
+[9]     11.1    0.01    0.00       4         myfunction [9]
+-----------------------------------------------
+                                                 <spontaneous>
+[10]    11.1    0.01    0.00                 max [10]
+-----------------------------------------------
+                0.00    0.00  496008/12152196     assign_sum_to_pixel [7]
+                0.00    0.00  496008/12152196     smooth [5]
+                0.00    0.00  992016/12152196     sum_pixels_by_weight [6]
+                0.00    0.00 10168164/12152196     applyKernel [4]
+[11]     0.0    0.00    0.00 12152196         initialize_pixel_sum [11]
+-----------------------------------------------
+                0.00    0.00       2/2           optimize [3]
+[12]     0.0    0.00    0.00       2         charsToPixels [12]
+-----------------------------------------------
+                0.00    0.00       2/2           optimize [3]
+[13]     0.0    0.00    0.00       2         copyPixels [13]
+-----------------------------------------------
+                0.00    0.00       2/2           ImageLoad [17]
+[14]     0.0    0.00    0.00       2         endianReadInt [14]
+-----------------------------------------------
+                0.00    0.00       2/2           ImageLoad [17]
+[15]     0.0    0.00    0.00       2         endianReadShort [15]
+-----------------------------------------------
+                0.00    0.00       2/2           main [1]
+[16]     0.0    0.00    0.00       2         writeBMP [16]
+-----------------------------------------------
+                0.00    0.00       1/1           display [22]
+[17]     0.0    0.00    0.00       1         ImageLoad [17]
+                0.00    0.00       2/2           endianReadInt [14]
+                0.00    0.00       2/2           endianReadShort [15]
+-----------------------------------------------
+                0.00    0.00       1/1           etext [2]
+[18]     0.0    0.00    0.00       1         getImage [18]
+-----------------------------------------------
+
+ This table describes the call tree of the program, and was sorted by
+ the total amount of time spent in each function and its children.
+
+ Each entry in this table consists of several lines.  The line with the
+ index number at the left hand margin lists the current function.
+ The lines above it list the functions that called this function,
+ and the lines below it list the functions this one called.
+ This line lists:
+     index	A unique number given to each element of the table.
+		Index numbers are sorted numerically.
+		The index number is printed next to every function name so
+		it is easier to look up where the function is in the table.
+
+     % time	This is the percentage of the `total' time that was spent
+		in this function and its children.  Note that due to
+		different viewpoints, functions excluded by options, etc,
+		these numbers will NOT add up to 100%.
+
+     self	This is the total amount of time spent in this function.
+
+     children	This is the total amount of time propagated into this
+		function by its children.
+
+     called	This is the number of times the function was called.
+		If the function called itself recursively, the number
+		only includes non-recursive calls, and is followed by
+		a `+' and the number of recursive calls.
+
+     name	The name of the current function.  The index number is
+		printed after it.  If the function is a member of a
+		cycle, the cycle number is printed between the
+		function's name and the index number.
+
+
+ For the function's parents, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the function into this parent.
+
+     children	This is the amount of time that was propagated from
+		the function's children into this parent.
+
+     called	This is the number of times this parent called the
+		function `/' the total number of times the function
+		was called.  Recursive calls to the function are not
+		included in the number after the `/'.
+
+     name	This is the name of the parent.  The parent's index
+		number is printed after it.  If the parent is a
+		member of a cycle, the cycle number is printed between
+		the name and the index number.
+
+ If the parents of the function cannot be determined, the word
+ `<spontaneous>' is printed in the `name' field, and all the other
+ fields are blank.
+
+ For the function's children, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the child into the function.
+
+     children	This is the amount of time that was propagated from the
+		child's children to the function.
+
+     called	This is the number of times the function called
+		this child `/' the total number of times the child
+		was called.  Recursive calls by the child are not
+		listed in the number after the `/'.
+
+     name	This is the name of the child.  The child's index
+		number is printed after it.  If the child is a
+		member of a cycle, the cycle number is printed
+		between the name and the index number.
+
+ If there are any cycles (circles) in the call graph, there is an
+ entry for the cycle-as-a-whole.  This entry shows who called the
+ cycle (as parents) and the members of the cycle (as children.)
+ The `+' recursive calls entry shows the number of function calls that
+ were internal to the cycle, and the calls entry for each member shows,
+ for that member, how many times it was called from other members of
+ the cycle.
+
+Copyright (C) 2012-2020 Free Software Foundation, Inc.
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.
+
+Index by function name
+
+  [17] ImageLoad              [14] endianReadInt           [9] myfunction
+   [4] applyKernel            [15] endianReadShort         [3] optimize
+   [7] assign_sum_to_pixel    [18] getImage                [5] smooth
+   [8] calcIndex              [11] initialize_pixel_sum    [6] sum_pixels_by_weight
+  [12] charsToPixels           [1] main                   [16] writeBMP
+  [13] copyPixels             [10] max
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ gprof showBMPbash script.sh 21./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+make: 'showBMP' is up to date.
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ makegprof showBMPbash script.sh 21./showBMP gibson_500.bmp 1
+270.679000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgprof showBMP
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  ms/call  ms/call  name    
+ 44.51      0.04     0.04   496008     0.00     0.00  applyKernel
+ 11.13      0.05     0.01 13392216     0.00     0.00  calcIndex
+ 11.13      0.06     0.01  4960080     0.00     0.00  sum_pixels_by_weight
+ 11.13      0.07     0.01   992016     0.00     0.00  assign_sum_to_pixel
+ 11.13      0.08     0.01        4     2.50     2.50  myfunction
+ 11.13      0.09     0.01                             max
+  0.00      0.09     0.00 12152196     0.00     0.00  initialize_pixel_sum
+  0.00      0.09     0.00        2     0.00     0.00  charsToPixels
+  0.00      0.09     0.00        2     0.00     0.00  copyPixels
+  0.00      0.09     0.00        2     0.00     0.00  endianReadInt
+  0.00      0.09     0.00        2     0.00     0.00  endianReadShort
+  0.00      0.09     0.00        2     0.00    35.05  smooth
+  0.00      0.09     0.00        2     0.00     0.00  writeBMP
+  0.00      0.09     0.00        1     0.00     0.00  ImageLoad
+  0.00      0.09     0.00        1     0.00     0.00  getImage
+  0.00      0.09     0.00        1     0.00    80.11  main
+  0.00      0.09     0.00        1     0.00    75.11  optimize
+
+ %         the percentage of the total running time of the
+time       program used by this function.
+
+cumulative a running sum of the number of seconds accounted
+ seconds   for by this function and those listed above it.
+
+ self      the number of seconds accounted for by this
+seconds    function alone.  This is the major sort for this
+           listing.
+
+calls      the number of times this function was invoked, if
+           this function is profiled, else blank.
+
+ self      the average number of milliseconds spent in this
+ms/call    function per call, if this function is profiled,
+	   else blank.
+
+ total     the average number of milliseconds spent in this
+ms/call    function and its descendents per call, if this
+	   function is profiled, else blank.
+
+name       the name of the function.  This is the minor sort
+           for this listing. The index shows the location of
+	   the function in the gprof listing. If the index is
+	   in parenthesis it shows where it would appear in
+	   the gprof listing if it were to be printed.
+
+Copyright (C) 2012-2020 Free Software Foundation, Inc.
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.
+
+		     Call graph (explanation follows)
+
+
+granularity: each sample hit covers 2 byte(s) for 11.10% of 0.09 seconds
+
+index % time    self  children    called     name
+                0.00    0.08       1/1           etext [2]
+[1]     88.9    0.00    0.08       1         main [1]
+                0.00    0.08       1/1           optimize [3]
+                0.01    0.00       2/4           myfunction [9]
+                0.00    0.00       2/2           writeBMP [16]
+-----------------------------------------------
+                                                 <spontaneous>
+[2]     88.9    0.00    0.08                 etext [2]
+                0.00    0.08       1/1           main [1]
+                0.00    0.00       1/1           getImage [18]
+-----------------------------------------------
+                0.00    0.08       1/1           main [1]
+[3]     83.3    0.00    0.08       1         optimize [3]
+                0.00    0.07       2/2           smooth [5]
+                0.01    0.00       2/4           myfunction [9]
+                0.00    0.00       2/2           charsToPixels [12]
+                0.00    0.00       2/2           copyPixels [13]
+-----------------------------------------------
+                0.04    0.03  496008/496008      smooth [5]
+[4]     77.8    0.04    0.03  496008         applyKernel [4]
+                0.01    0.00 4960080/4960080     sum_pixels_by_weight [6]
+                0.01    0.00  992016/992016      assign_sum_to_pixel [7]
+                0.01    0.00 11904192/13392216     calcIndex [8]
+                0.00    0.00 10168164/12152196     initialize_pixel_sum [11]
+-----------------------------------------------
+                0.00    0.07       2/2           optimize [3]
+[5]     77.8    0.00    0.07       2         smooth [5]
+                0.04    0.03  496008/496008      applyKernel [4]
+                0.00    0.00  496008/12152196     initialize_pixel_sum [11]
+-----------------------------------------------
+                0.01    0.00 4960080/4960080     applyKernel [4]
+[6]     11.9    0.01    0.00 4960080         sum_pixels_by_weight [6]
+                0.00    0.00  992016/13392216     calcIndex [8]
+                0.00    0.00  992016/12152196     initialize_pixel_sum [11]
+-----------------------------------------------
+                0.01    0.00  992016/992016      applyKernel [4]
+[7]     11.5    0.01    0.00  992016         assign_sum_to_pixel [7]
+                0.00    0.00  496008/13392216     calcIndex [8]
+                0.00    0.00  496008/12152196     initialize_pixel_sum [11]
+-----------------------------------------------
+                0.00    0.00  496008/13392216     assign_sum_to_pixel [7]
+                0.00    0.00  992016/13392216     sum_pixels_by_weight [6]
+                0.01    0.00 11904192/13392216     applyKernel [4]
+[8]     11.1    0.01    0.00 13392216         calcIndex [8]
+-----------------------------------------------
+                0.01    0.00       2/4           optimize [3]
+                0.01    0.00       2/4           main [1]
+[9]     11.1    0.01    0.00       4         myfunction [9]
+-----------------------------------------------
+                                                 <spontaneous>
+[10]    11.1    0.01    0.00                 max [10]
+-----------------------------------------------
+                0.00    0.00  496008/12152196     assign_sum_to_pixel [7]
+                0.00    0.00  496008/12152196     smooth [5]
+                0.00    0.00  992016/12152196     sum_pixels_by_weight [6]
+                0.00    0.00 10168164/12152196     applyKernel [4]
+[11]     0.0    0.00    0.00 12152196         initialize_pixel_sum [11]
+-----------------------------------------------
+                0.00    0.00       2/2           optimize [3]
+[12]     0.0    0.00    0.00       2         charsToPixels [12]
+-----------------------------------------------
+                0.00    0.00       2/2           optimize [3]
+[13]     0.0    0.00    0.00       2         copyPixels [13]
+-----------------------------------------------
+                0.00    0.00       2/2           ImageLoad [17]
+[14]     0.0    0.00    0.00       2         endianReadInt [14]
+-----------------------------------------------
+                0.00    0.00       2/2           ImageLoad [17]
+[15]     0.0    0.00    0.00       2         endianReadShort [15]
+-----------------------------------------------
+                0.00    0.00       2/2           main [1]
+[16]     0.0    0.00    0.00       2         writeBMP [16]
+-----------------------------------------------
+                0.00    0.00       1/1           display [22]
+[17]     0.0    0.00    0.00       1         ImageLoad [17]
+                0.00    0.00       2/2           endianReadInt [14]
+                0.00    0.00       2/2           endianReadShort [15]
+-----------------------------------------------
+                0.00    0.00       1/1           etext [2]
+[18]     0.0    0.00    0.00       1         getImage [18]
+-----------------------------------------------
+
+ This table describes the call tree of the program, and was sorted by
+ the total amount of time spent in each function and its children.
+
+ Each entry in this table consists of several lines.  The line with the
+ index number at the left hand margin lists the current function.
+ The lines above it list the functions that called this function,
+ and the lines below it list the functions this one called.
+ This line lists:
+     index	A unique number given to each element of the table.
+		Index numbers are sorted numerically.
+		The index number is printed next to every function name so
+		it is easier to look up where the function is in the table.
+
+     % time	This is the percentage of the `total' time that was spent
+		in this function and its children.  Note that due to
+		different viewpoints, functions excluded by options, etc,
+		these numbers will NOT add up to 100%.
+
+     self	This is the total amount of time spent in this function.
+
+     children	This is the total amount of time propagated into this
+		function by its children.
+
+     called	This is the number of times the function was called.
+		If the function called itself recursively, the number
+		only includes non-recursive calls, and is followed by
+		a `+' and the number of recursive calls.
+
+     name	The name of the current function.  The index number is
+		printed after it.  If the function is a member of a
+		cycle, the cycle number is printed between the
+		function's name and the index number.
+
+
+ For the function's parents, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the function into this parent.
+
+     children	This is the amount of time that was propagated from
+		the function's children into this parent.
+
+     called	This is the number of times this parent called the
+		function `/' the total number of times the function
+		was called.  Recursive calls to the function are not
+		included in the number after the `/'.
+
+     name	This is the name of the parent.  The parent's index
+		number is printed after it.  If the parent is a
+		member of a cycle, the cycle number is printed between
+		the name and the index number.
+
+ If the parents of the function cannot be determined, the word
+ `<spontaneous>' is printed in the `name' field, and all the other
+ fields are blank.
+
+ For the function's children, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the child into the function.
+
+     children	This is the amount of time that was propagated from the
+		child's children to the function.
+
+     called	This is the number of times the function called
+		this child `/' the total number of times the child
+		was called.  Recursive calls by the child are not
+		listed in the number after the `/'.
+
+     name	This is the name of the child.  The child's index
+		number is printed after it.  If the child is a
+		member of a cycle, the cycle number is printed
+		between the name and the index number.
+
+ If there are any cycles (circles) in the call graph, there is an
+ entry for the cycle-as-a-whole.  This entry shows who called the
+ cycle (as parents) and the members of the cycle (as children.)
+ The `+' recursive calls entry shows the number of function calls that
+ were internal to the cycle, and the calls entry for each member shows,
+ for that member, how many times it was called from other members of
+ the cycle.
+
+Copyright (C) 2012-2020 Free Software Foundation, Inc.
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.
+
+Index by function name
+
+  [17] ImageLoad              [14] endianReadInt           [9] myfunction
+   [4] applyKernel            [15] endianReadShort         [3] optimize
+   [7] assign_sum_to_pixel    [18] getImage                [5] smooth
+   [8] calcIndex              [11] initialize_pixel_sum    [6] sum_pixels_by_weight
+  [12] charsToPixels           [1] main                   [16] writeBMP
+  [13] copyPixels             [10] max
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ps
+    PID TTY          TIME CMD
+   2834 pts/2    00:00:00 bash
+   6365 pts/2    00:00:00 ps
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ psgprof showBMP./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+gcc -pg -o showBMP.o -c showBMP.c
+gcc -pg -o showBMP readBMP.o writeBMP.o showBMP.o -lm   -lglut -lGL -lGLU -lX11 -lXmu -lXi -L/usr/X11R6/lib
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[2Ppsgprof showBMP./showBMP gibson_500.bmp 1
+100.711000
+_mcleanup: gmon.out: Permission denied
+]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ ./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Ppsgprof showBMP./showBMP gibson_500.bmp 1[A]0;danibuntu@danibuntu-VirtualBox: ~/CLionProjects/EX5_mivne[01;32mdanibuntu@danibuntu-VirtualBox[00m:[01;34m~/CLionProjects/EX5_mivne[00m$ [7Pgprof showBMP
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  ms/call  ms/call  name    
+ 55.64      0.05     0.05   496008     0.00     0.00  applyKernel
+ 11.13      0.06     0.01 17856288     0.00     0.00  initialize_pixel_sum
+ 11.13      0.07     0.01  8680140     0.00     0.00  assign_sum_to_pixel
+ 11.13      0.08     0.01        2     5.01     5.01  myfunction
+ 11.13      0.09     0.01                             max
+  0.00      0.09     0.00        3     0.00    26.24  optimize
+  0.00      0.09     0.00        2     0.00    33.77  charsToPixels
+  0.00      0.09     0.00        2     0.00     0.00  copyPixels
+  0.00      0.09     0.00        2     0.00     0.00  endianReadInt
+  0.00      0.09     0.00        2     0.00     0.00  endianReadShort
+  0.00      0.09     0.00        2     0.00     0.59  smooth
+  0.00      0.09     0.00        2     0.00     0.00  writeBMP
+  0.00      0.09     0.00        1     0.00     0.00  ImageLoad
+  0.00      0.09     0.00        1     0.00     0.00  getImage
+  0.00      0.09     0.00        1     0.00    78.72  main
+
+ %         the percentage of the total running time of the
+time       program used by this function.
+
+cumulative a running sum of the number of seconds accounted
+ seconds   for by this function and those listed above it.
+
+ self      the number of seconds accounted for by this
+seconds    function alone.  This is the major sort for this
+           listing.
+
+calls      the number of times this function was invoked, if
+           this function is profiled, else blank.
+
+ self      the average number of milliseconds spent in this
+ms/call    function per call, if this function is profiled,
+	   else blank.
+
+ total     the average number of milliseconds spent in this
+ms/call    function and its descendents per call, if this
+	   function is profiled, else blank.
+
+name       the name of the function.  This is the minor sort
+           for this listing. The index shows the location of
+	   the function in the gprof listing. If the index is
+	   in parenthesis it shows where it would appear in
+	   the gprof listing if it were to be printed.
+
+Copyright (C) 2012-2020 Free Software Foundation, Inc.
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.
+
+		     Call graph (explanation follows)
+
+
+granularity: each sample hit covers 2 byte(s) for 11.10% of 0.09 seconds
+
+index % time    self  children    called     name
+                0.00    0.08       3/3           main [2]
+[1]     87.3    0.00    0.08       3         optimize [1]
+                0.00    0.07       2/2           charsToPixels [5]
+                0.01    0.00       2/2           myfunction [8]
+                0.00    0.00       2/2           smooth [11]
+                0.00    0.00       2/2           copyPixels [12]
+-----------------------------------------------
+                0.00    0.08       1/1           etext [3]
+[2]     87.3    0.00    0.08       1         main [2]
+                0.00    0.08       3/3           optimize [1]
+                0.00    0.00       2/2           writeBMP [15]
+-----------------------------------------------
+                                                 <spontaneous>
+[3]     87.3    0.00    0.08                 etext [3]
+                0.00    0.08       1/1           main [2]
+                0.00    0.00       1/1           getImage [17]
+-----------------------------------------------
+                             4960080             applyKernel [4]
+                0.05    0.02  496008/496008      charsToPixels [5]
+[4]     74.9    0.05    0.02  496008+4960080 applyKernel [4]
+                0.01    0.00 7688124/8680140     assign_sum_to_pixel [6]
+                0.01    0.00 14880240/17856288     initialize_pixel_sum [7]
+                             4960080             applyKernel [4]
+-----------------------------------------------
+                0.00    0.07       2/2           optimize [1]
+[5]     74.9    0.00    0.07       2         charsToPixels [5]
+                0.05    0.02  496008/496008      applyKernel [4]
+-----------------------------------------------
+                0.00    0.00  992016/8680140     smooth [11]
+                0.01    0.00 7688124/8680140     applyKernel [4]
+[6]     11.4    0.01    0.00 8680140         assign_sum_to_pixel [6]
+                0.00    0.00  496008/17856288     initialize_pixel_sum [7]
+-----------------------------------------------
+                0.00    0.00  496008/17856288     assign_sum_to_pixel [6]
+                0.00    0.00 2480040/17856288     sum_pixels_by_weight [10]
+                0.01    0.00 14880240/17856288     applyKernel [4]
+[7]     11.1    0.01    0.00 17856288         initialize_pixel_sum [7]
+-----------------------------------------------
+                0.01    0.00       2/2           optimize [1]
+[8]     11.1    0.01    0.00       2         myfunction [8]
+-----------------------------------------------
+                                                 <spontaneous>
+[9]     11.1    0.01    0.00                 max [9]
+-----------------------------------------------
+                                                 <spontaneous>
+[10]     1.5    0.00    0.00                 sum_pixels_by_weight [10]
+                0.00    0.00 2480040/17856288     initialize_pixel_sum [7]
+-----------------------------------------------
+                0.00    0.00       2/2           optimize [1]
+[11]     1.3    0.00    0.00       2         smooth [11]
+                0.00    0.00  992016/8680140     assign_sum_to_pixel [6]
+-----------------------------------------------
+                0.00    0.00       2/2           optimize [1]
+[12]     0.0    0.00    0.00       2         copyPixels [12]
+-----------------------------------------------
+                0.00    0.00       2/2           ImageLoad [16]
+[13]     0.0    0.00    0.00       2         endianReadInt [13]
+-----------------------------------------------
+                0.00    0.00       2/2           ImageLoad [16]
+[14]     0.0    0.00    0.00       2         endianReadShort [14]
+-----------------------------------------------
+                0.00    0.00       2/2           main [2]
+[15]     0.0    0.00    0.00       2         writeBMP [15]
+-----------------------------------------------
+                0.00    0.00       1/1           display [21]
+[16]     0.0    0.00    0.00       1         ImageLoad [16]
+                0.00    0.00       2/2           endianReadInt [13]
+                0.00    0.00       2/2           endianReadShort [14]
+-----------------------------------------------
+                0.00    0.00       1/1           etext [3]
+[17]     0.0    0.00    0.00       1         getImage [17]
+-----------------------------------------------
+
+ This table describes the call tree of the program, and was sorted by
+ the total amount of time spent in each function and its children.
+
+ Each entry in this table consists of several lines.  The line with the
+ index number at the left hand margin lists the current function.
+ The lines above it list the functions that called this function,
+ and the lines below it list the functions this one called.
+ This line lists:
+     index	A unique number given to each element of the table.
+		Index numbers are sorted numerically.
+		The index number is printed next to every function name so
+		it is easier to look up where the function is in the table.
+
+     % time	This is the percentage of the `total' time that was spent
+		in this function and its children.  Note that due to
+		different viewpoints, functions excluded by options, etc,
+		these numbers will NOT add up to 100%.
+
+     self	This is the total amount of time spent in this function.
+
+     children	This is the total amount of time propagated into this
+		function by its children.
+
+     called	This is the number of times the function was called.
+		If the function called itself recursively, the number
+		only includes non-recursive calls, and is followed by
+		a `+' and the number of recursive calls.
+
+     name	The name of the current function.  The index number is
+		printed after it.  If the function is a member of a
+		cycle, the cycle number is printed between the
+		function's name and the index number.
+
+
+ For the function's parents, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the function into this parent.
+
+     children	This is the amount of time that was propagated from
+		the function's children into this parent.
+
+     called	This is the number of times this parent called the
+		function `/' the total number of times the function
+		was called.  Recursive calls to the function are not
+		included in the number after the `/'.
+
+     name	This is the name of the parent.  The parent's index
+		number is printed after it.  If the parent is a
+		member of a cycle, the cycle number is printed between
+		the name and the index number.
+
+ If the parents of the function cannot be determined, the word
+ `<spontaneous>' is printed in the `name' field, and all the other
+ fields are blank.
+
+ For the function's children, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the child into the function.
+
+     children	This is the amount of time that was propagated from the
+		child's children to the function.
+
+     called	This is the number of times the function called
+		this child `/' the total number of times the child
+		was called.  Recursive calls by the child are not
+		listed in the number after the `/'.
+
+     name	This is the name of the child.  The child's index
+		number is printed after it.  If the child is a
+		member of a cycle, the cycle number is printed
+		between the name and the index number.
+
+ If there are any cycles (circles) in the call graph, there is an
+ entry for the cycle-as-a-whole.  This entry shows who called the
+ cycle (as parents) and the members of the cycle (as children.)
+ The `+' recursive calls entry shows the number of function calls that
+ were internal to the cycle, and the calls entry for each member shows,
+ for that member, how many times it was called from other members of
+ the cycle.
+
+Copyright (C) 2012-2020 Free Software Foundation, Inc.
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.
+
+Index by
