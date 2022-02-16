@@ -70,27 +70,27 @@ do
 	rm Blur.bmp Filtered_Blur.bmp Filtered_Sharpen.bmp Sharpen.bmp
 	run_program gibson_500.bmp $NO_FILTER_PARAM
 
-	#echo "==== Checking Blur ===="
-	#cmp Blur.bmp Blur_correct.bmp
-	#print_ret $?
-	#printf "\n"
+	echo "==== Checking Blur ===="
+	cmp Blur.bmp Blur_correct.bmp
+	print_ret $?
+	printf "\n"
 
-	#echo "==== Checking Sharpen ===="
-	#cmp Sharpen.bmp Sharpen_correct.bmp
-	#print_ret $?
-	#printf "\n"
+	echo "==== Checking Sharpen ===="
+	cmp Sharpen.bmp Sharpen_correct.bmp
+	print_ret $?
+	printf "\n"
 
 	run_program gibson_500.bmp $FILTER_PARAM
 
-	#echo "==== Checking Filtered + Blur ===="
-	#cmp Filtered_Blur.bmp Filtered_Blur_correct.bmp
-	#print_ret $?
-	#printf "\n"
+	echo "==== Checking Filtered + Blur ===="
+	cmp Filtered_Blur.bmp Filtered_Blur_correct.bmp
+	print_ret $?
+	printf "\n"
 
-	#echo "==== Checking Filtered + Sharpen ===="
-	#cmp Filtered_Sharpen.bmp Filtered_Sharpen_correct.bmp
-	#print_ret $?
-	#printf "\n"
+	echo "==== Checking Filtered + Sharpen ===="
+	cmp Filtered_Sharpen.bmp Filtered_Sharpen_correct.bmp
+	print_ret $?
+	printf "\n"
 
 done
 
