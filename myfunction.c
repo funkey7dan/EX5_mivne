@@ -1,4 +1,3 @@
-// 315901173 Daniel Bronfman
 #pragma GCC target("bmi,bmi2,popcnt,lzcnt")
 #pragma GCC optimize ("Ofast,unroll-loops")
 #include <stdbool.h>
